@@ -1,7 +1,7 @@
 - task: AzureCLI@2
   displayName: Azure CLI
   inputs:
-    azureSubscription: <Name of the Azure Resource Manager service connection>
+    azureSubscription: EnterpriseSoftwarePlayground (edc7ef06-fab8-4177-a907-a15cd5ef7611)
     scriptType: ps
     scriptLocation: inlineScript
     inlineScript: |
